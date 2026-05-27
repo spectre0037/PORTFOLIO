@@ -127,10 +127,6 @@ export default function App() {
       <Suspense fallback={null}>
         <FooterSection year={year} />
       </Suspense>
-
-      <div className="fixed bottom-5 left-1/2 z-40 -translate-x-1/2 rounded-full border border-white/10 bg-black/40 px-4 py-2 text-xs text-white/60 backdrop-blur-xl">
-        Press Ctrl/Cmd + K for command palette
-      </div>
     </div>
   );
 }
