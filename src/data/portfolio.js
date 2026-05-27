@@ -19,10 +19,10 @@ import {
 export const navItems = ['About', 'Experience', 'Tech Stack', 'Projects', 'AI', 'Services', 'Contact'];
 
 export const socialLinks = [
-  { label: 'GitHub', href: 'https://github.com', icon: GitBranch },
-  { label: 'LinkedIn', href: 'https://linkedin.com', icon: BriefcaseBusiness },
-  { label: 'X', href: 'https://x.com', icon: Sparkles },
-  { label: 'Email', href: 'mailto:abdullah@example.com', icon: ArrowRight },
+  { label: 'GitHub', href: 'https://github.com/spectre0037', icon: GitBranch },
+  { label: 'LinkedIn', href: 'https://linkedin.com/in/your-profile', icon: BriefcaseBusiness },
+  { label: 'X', href: 'https://twitter.com/your-handle', icon: Sparkles },
+  { label: 'Email', href: 'mailto:your.email@example.com', icon: ArrowRight },
 ];
 
 export const heroStats = [

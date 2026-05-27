@@ -1,0 +1,25 @@
+# Robots.txt for Abdullah Bin Zubair Portfolio
+# Allows search engines to crawl all content
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Google-specific rules
+User-agent: Googlebot
+Allow: /
+
+# Allow specific crawlers for analytics and performance
+User-agent: bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Sitemap location
+Sitemap: https://adullahbinzubair.live/sitemap.xml
+
+# Crawl delay (in seconds)
+Crawl-delay: 1
