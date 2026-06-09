@@ -79,15 +79,15 @@ export const experience = [
 ];
 
 export const techCategories = [
-  { title: 'Frontend', color: 'from-accentBlue/30 to-transparent', items: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'Tailwind CSS', 'GSAP', 'Framer Motion'] },
-  { title: 'Backend', color: 'from-accentPurple/30 to-transparent', items: ['Node.js', 'Express', 'Prisma', 'Clerk', 'Firebase'] },
-  { title: 'AI/ML', color: 'from-accentCyan/30 to-transparent', items: ['Python', 'LLM Apps', 'Recommendation Systems', 'Intelligent Automation', 'Analytics'] },
-  { title: 'Databases', color: 'from-white/15 to-transparent', items: ['MongoDB', 'PostgreSQL', 'MySQL', 'SQL'] },
-  { title: 'Cloud/Hosting', color: 'from-accentBlue/20 to-transparent', items: ['Vercel', 'Netlify', 'GitHub Actions', 'Deployment Pipelines','AWS'] },
-  { title: 'Design Tools', color: 'from-accentPurple/20 to-transparent', items: ['Figma', 'Design Systems', 'Motion Prototyping', 'Content Strategy'] },
+  { title: 'Data Analysis/Visualization', color: 'from-white/10 to-transparent', items: ['Tableau', 'PowerBI', 'Python'] },
+  { title: 'AI/ML', color: 'from-accentCyan/30 to-transparent', items: ['Python', 'LLM Apps', 'Recommendation Systems', 'Analytics'] },
+  { title: 'Databases', color: 'from-white/15 to-transparent', items: ['MongoDB', 'PostgreSQL', 'MySQL'] },
   { title: 'DevOps', color: 'from-accentCyan/20 to-transparent', items: ['Git', 'GitHub'] },
-  { title: 'Languages', color: 'from-white/10 to-transparent', items: ['JavaScript', 'TypeScript', 'Python', 'C++', 'SQL'] },
-  { title: 'Data Visualization', color: 'from-white/10 to-transparent', items: ['Tableau', 'PowerBI','Python'] },
+  { title: 'Cloud/Hosting', color: 'from-accentBlue/20 to-transparent', items: ['Vercel', 'Netlify', 'GitHub Actions', 'AWS'] },
+  { title: 'Frontend', color: 'from-accentBlue/30 to-transparent', items: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'Tailwind CSS', 'GSAP', 'Framer Motion'] },
+  { title: 'Backend', color: 'from-accentPurple/30 to-transparent', items: ['Node.js', 'Express', 'Prisma', 'Clerk'] },
+  { title: 'Design Tools', color: 'from-accentPurple/20 to-transparent', items: ['Figma', 'Design Systems', 'Motion Prototyping', 'Content Strategy', 'Canva'] },
+  { title: 'Languages', color: 'from-white/10 to-transparent', items: ['JavaScript', 'TypeScript', 'Python', 'C++', 'SQL', 'PHP'] },
 ];
 
 export const projects = [
